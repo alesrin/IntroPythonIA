@@ -1,0 +1,26 @@
+
+# ==============================================
+# WEB SCRAPING
+# ==============================================
+
+# BeautifulSoup - Parsing HTML/XML
+beautifulsoup4>=4.12.0
+
+# Requests - Peticiones HTTP
+requests>=2.31.0
+
+# lxml - Parser rápido para BeautifulSoup
+lxml>=5.1.0
+
+# Scrapy - Framework de web scraping
+scrapy>=2.11.0
+
+
+# ==============================================
+# INSTALACIÓN
+# ==============================================
+# Para instalar todos los paquetes, ejecutar:
+# pip install -r requirements.txt
+#
+# Para instalar solo los esenciales:
+# pip install beautifulsoup4 requests lxml scrapy
